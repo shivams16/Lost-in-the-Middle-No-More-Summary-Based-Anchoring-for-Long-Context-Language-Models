@@ -172,14 +172,3 @@ If you use this work, please cite:
   year={2025}
 }
 ```
-
----
-
-If you want, I can also:
-
-* tailor this README to **code-release style**
-* add **usage examples / scripts**
-* generate a **short README** for benchmarks only
-* format it for **ACL / EMNLP artifact submission**
-
-Just tell me 👍
