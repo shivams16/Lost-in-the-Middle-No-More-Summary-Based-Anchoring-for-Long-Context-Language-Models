@@ -1,8 +1,3 @@
-# Generated from: Documents_Abstracts_Middle_llama.ipynb
-# Converted at: 2026-01-17T10:15:17.009Z
-# Next step (optional): refactor into modules & generate tests with RunCell
-# Quick start: pip install runcell
-
 !pip install transformers accelerate sentencepiece tqdm
 
 import json
