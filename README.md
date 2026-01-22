@@ -154,7 +154,7 @@ Summary-Based Anchoring:
 ## 🧩 Contributions
 
 * 🔍 Systematic analysis showing **retrieval prompting degrades performance**
-* 📌 Introduction of **Summary-Based Anchoring**, a simple inference-only method
+* 📌 Introduction of **Summary-Based Anchoring** , a simple inference-only method
 * 🧠 Attention-based evidence explaining why it works
 * 🔁 Robust improvements across models and longer contexts
 
